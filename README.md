@@ -9,7 +9,7 @@ For the models task below, take advantage of the [model field reference](https:/
 
 ## Models
 
-1. Install the requirements using `pip install -r dev-requirements.txt`.
+1. Install the requirements using `pip install -r requirements.txt`.
 2. Create a `Pokemon` model with the following attributes:
 
    - `name`: `CharField` with a maximum of 30 characters.

@@ -1,1 +1,7 @@
-Django==4.0.4
+-r requirements.txt
+
+black
+isort
+flake8
+pytest
+pytest-django
